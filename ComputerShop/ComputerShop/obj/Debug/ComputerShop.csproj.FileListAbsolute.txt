@@ -1,0 +1,14 @@
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\bin\Debug\ComputerShop.exe.config
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\bin\Debug\ComputerShop.exe
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\bin\Debug\ComputerShop.pdb
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csprojAssemblyReference.cache
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\obj\Debug\ComputerShop.Properties.Resources.resources
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csproj.GenerateResource.cache
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\obj\Debug\ComputerShop.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\obj\Debug\ComputerShop.exe
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\obj\Debug\ComputerShop.pdb
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\obj\Debug\ComputerShop.Views.FrmTest.resources
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\obj\Debug\ComputerShop.Views.FrmCliente.resources
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\obj\Debug\ComputerShop.Views.FrmInicio.resources
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\obj\Debug\ComputerShop.Views.FrmProdutos.resources
+C:\Users\Leonardo Silva\source\repos\ComputerShop\ComputerShop\obj\Debug\ComputerShop.Views.FrmVendas.resources
